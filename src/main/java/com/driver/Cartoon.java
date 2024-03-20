@@ -6,6 +6,8 @@ public class Cartoon {
 
     public Cartoon(String name, int power) {
       // your code goes here
+        this.name=name;
+        this.power=power;
     }
 
     public String getName() {
